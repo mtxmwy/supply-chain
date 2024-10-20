@@ -7,7 +7,7 @@
         <mxCell id="Pn2G7j5A158kvHt3KhE--1" value="中央库存系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pn2G7j5A158kvHt3KhE--2" value="门店库存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pn2G7j5A158kvHt3KhE--2" value="门店" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pn2G7j5A158kvHt3KhE--3" value="仓库库存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
