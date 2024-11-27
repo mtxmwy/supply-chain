@@ -1,0 +1,3 @@
+com.headrtong.scm.common.feign.ScmFeignAutoConfiguration
+com.headrtong.scm.common.feign.sentinel.SentinelAutoConfiguration
+com.headrtong.scm.common.feign.sentinel.handle.GlobalBizExceptionHandler

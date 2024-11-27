@@ -1,0 +1,6 @@
+com.headrtong.scm.admin.api.feign.RemoteClientDetailsService
+com.headrtong.scm.admin.api.feign.RemoteDictService
+com.headrtong.scm.admin.api.feign.RemoteLogService
+com.headrtong.scm.admin.api.feign.RemoteParamService
+com.headrtong.scm.admin.api.feign.RemoteTokenService
+com.headrtong.scm.admin.api.feign.RemoteUserService

@@ -1,0 +1,6 @@
+com.headrtong.scm.common.core.config.TaskExecutorConfiguration
+com.headrtong.scm.common.core.config.JacksonConfiguration
+com.headrtong.scm.common.core.config.RedisTemplateConfiguration
+com.headrtong.scm.common.core.config.RestTemplateConfiguration
+com.headrtong.scm.common.core.util.SpringContextHolder
+com.headrtong.scm.common.core.config.WebMvcConfiguration

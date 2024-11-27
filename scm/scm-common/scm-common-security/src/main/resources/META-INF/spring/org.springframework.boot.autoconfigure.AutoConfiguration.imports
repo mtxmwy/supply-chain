@@ -1,0 +1,7 @@
+com.headrtong.scm.common.security.service.ScmUserDetailsServiceImpl
+com.headrtong.scm.common.security.service.ScmAppUserDetailsServiceImpl
+com.headrtong.scm.common.security.service.ScmRedisOAuth2AuthorizationService
+com.headrtong.scm.common.security.service.ScmRedisOAuth2AuthorizationConsentService
+com.headrtong.scm.common.security.component.ScmSecurityInnerAspect
+com.headrtong.scm.common.security.component.ScmSecurityMessageSourceConfiguration
+com.headrtong.scm.common.security.service.ScmRemoteRegisteredClientRepository
