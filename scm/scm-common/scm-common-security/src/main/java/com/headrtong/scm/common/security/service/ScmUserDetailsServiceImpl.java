@@ -21,6 +21,7 @@ import com.headrtong.scm.admin.api.dto.UserInfo;
 import com.headrtong.scm.admin.api.feign.RemoteUserService;
 import com.headrtong.scm.common.core.constant.CacheConstants;
 import com.headrtong.scm.common.core.util.R;
+import com.headrtong.scm.common.core.util.WebUtils;
 import lombok.RequiredArgsConstructor;
 import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;
@@ -51,6 +52,14 @@ public class ScmUserDetailsServiceImpl implements ScmUserDetailsService {
 	@Override
 	@SneakyThrows
 	public UserDetails loadUserByUsername(String username) {
+		try {
+			String clientId = WebUtils.getClientId();
+			log.info("clientId: {}", clientId);
+		} catch (Exception e) {
+			log.info("loadUserByUsername->clientId: {}", e.getMessage());
+		}
+
+
 		Cache cache = cacheManager.getCache(CacheConstants.USER_DETAILS);
 		if (cache != null && cache.get(username) != null) {
 			return (ScmUser) cache.get(username).get();
