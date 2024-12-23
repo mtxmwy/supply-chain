@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Page-1" id="mm9rXTk4xkUjOPwGgsYZ">
+    <mxGraphModel dx="2261" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bmsuDMEYWtG4bpBeh2x5-1" value="组织" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmsuDMEYWtG4bpBeh2x5-2" value="数据权限" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="174" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmsuDMEYWtG4bpBeh2x5-3" value="部门" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmsuDMEYWtG4bpBeh2x5-4" value="门店A" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmsuDMEYWtG4bpBeh2x5-5" value="角色" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmsuDMEYWtG4bpBeh2x5-6" value="权限" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmsuDMEYWtG4bpBeh2x5-7" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmsuDMEYWtG4bpBeh2x5-8" value="功能权限" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-210" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmsuDMEYWtG4bpBeh2x5-9" value="区域" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="414" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmsuDMEYWtG4bpBeh2x5-10" value="页面权限" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmsuDMEYWtG4bpBeh2x5-11" value="基础数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmsuDMEYWtG4bpBeh2x5-12" value="门店B" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmsuDMEYWtG4bpBeh2x5-13" value="业务数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmsuDMEYWtG4bpBeh2x5-14" value="门店" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmsuDMEYWtG4bpBeh2x5-15" value="一级菜单" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-420" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmsuDMEYWtG4bpBeh2x5-16" value="二级菜单" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-420" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmsuDMEYWtG4bpBeh2x5-17" value="一级菜单" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-220" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmsuDMEYWtG4bpBeh2x5-18" value="二级菜单" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-220" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmsuDMEYWtG4bpBeh2x5-19" value="按钮" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-520" y="1230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmsuDMEYWtG4bpBeh2x5-20" value="按钮" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-320" y="1230" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
