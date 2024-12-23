@@ -11,19 +11,19 @@
           <mxGeometry x="174" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bmsuDMEYWtG4bpBeh2x5-3" value="部门" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bmsuDMEYWtG4bpBeh2x5-4" value="门店A" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bmsuDMEYWtG4bpBeh2x5-5" value="角色" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="-230" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bmsuDMEYWtG4bpBeh2x5-6" value="权限" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-30" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bmsuDMEYWtG4bpBeh2x5-7" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="-440" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bmsuDMEYWtG4bpBeh2x5-8" value="功能权限" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-210" y="720" width="120" height="60" as="geometry" />
@@ -41,10 +41,7 @@
           <mxGeometry x="500" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bmsuDMEYWtG4bpBeh2x5-13" value="业务数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="860" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bmsuDMEYWtG4bpBeh2x5-14" value="门店" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="860" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bmsuDMEYWtG4bpBeh2x5-15" value="一级菜单" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-420" y="970" width="120" height="60" as="geometry" />
@@ -53,7 +50,7 @@
           <mxGeometry x="-420" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bmsuDMEYWtG4bpBeh2x5-17" value="一级菜单" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-220" y="980" width="120" height="60" as="geometry" />
+          <mxGeometry x="-190" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bmsuDMEYWtG4bpBeh2x5-18" value="二级菜单" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-220" y="1090" width="120" height="60" as="geometry" />
@@ -63,6 +60,9 @@
         </mxCell>
         <mxCell id="bmsuDMEYWtG4bpBeh2x5-20" value="按钮" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-320" y="1230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rcqdIsIi6bTjW_Ddu12y-1" value="资源数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="860" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
