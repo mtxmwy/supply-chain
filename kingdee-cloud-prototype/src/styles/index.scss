@@ -1,0 +1,108 @@
+// 金蝶星空云主题色彩
+:root {
+  --kd-primary-color: #0066cc;
+  --kd-primary-light: #4d94db;
+  --kd-primary-dark: #0052a3;
+  --kd-success-color: #67c23a;
+  --kd-warning-color: #e6a23c;
+  --kd-danger-color: #f56c6c;
+  --kd-info-color: #909399;
+  
+  --kd-bg-color: #f5f7fa;
+  --kd-bg-light: #ffffff;
+  --kd-bg-dark: #eef2f6;
+  
+  --kd-text-primary: #303133;
+  --kd-text-regular: #606266;
+  --kd-text-secondary: #909399;
+  --kd-text-placeholder: #c0c4cc;
+  
+  --kd-border-color: #dcdfe6;
+  --kd-border-light: #e4e7ed;
+  --kd-border-lighter: #ebeef5;
+  
+  --kd-header-height: 60px;
+  --kd-sidebar-width: 240px;
+  --kd-sidebar-collapsed-width: 64px;
+}
+
+// 全局样式重置
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  font-family: 'Microsoft YaHei', 'PingFang SC', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: var(--kd-text-primary);
+  background-color: var(--kd-bg-color);
+}
+
+// 金蝶风格的卡片样式
+.kd-card {
+  background: var(--kd-bg-light);
+  border-radius: 8px;
+  box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+  border: 1px solid var(--kd-border-lighter);
+  overflow: hidden;
+  
+  .kd-card-header {
+    padding: 16px 20px;
+    border-bottom: 1px solid var(--kd-border-lighter);
+    background: #fafbfc;
+    
+    .kd-card-title {
+      font-size: 16px;
+      font-weight: 500;
+      color: var(--kd-text-primary);
+    }
+  }
+  
+  .kd-card-body {
+    padding: 20px;
+  }
+}
+
+// 金蝶风格的按钮样式
+.kd-btn-primary {
+  background: var(--kd-primary-color);
+  border-color: var(--kd-primary-color);
+  
+  &:hover {
+    background: var(--kd-primary-light);
+    border-color: var(--kd-primary-light);
+  }
+}
+
+// 页面容器样式
+.page-container {
+  padding: 20px;
+  min-height: calc(100vh - var(--kd-header-height));
+}
+
+.content-wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+// 表格样式优化
+.el-table {
+  .el-table__header {
+    th {
+      background: #fafbfc;
+      color: var(--kd-text-primary);
+      font-weight: 500;
+    }
+  }
+}
+
+// 表单样式优化
+.el-form {
+  .el-form-item__label {
+    color: var(--kd-text-regular);
+    font-weight: 500;
+  }
+}
